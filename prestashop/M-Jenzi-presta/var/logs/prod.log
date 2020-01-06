@@ -1,0 +1,6 @@
+[2020-01-06 09:22:25] app.ERROR: Class "AdminLinkWidgetController" not found in controllers/admin [] []
+[2020-01-06 09:22:51] app.INFO: Exporting mail with theme modern for language English (English) [] []
+[2020-01-06 09:22:51] app.INFO: Core output folder: C:\xampp\htdocs\prestashop/mails [] []
+[2020-01-06 09:22:51] app.INFO: Modules output folder: C:\xampp\htdocs\prestashop/modules/ [] []
+[2020-01-06 09:25:50] app.ERROR: Data from PrestaShop Addons is invalid, and cannot fallback on cache.  {"exception":"cURL error 28: Operation timed out after 5000 milliseconds with 474465037189120 bytes received"} []
+[2020-01-06 09:27:23] app.ERROR: Data from PrestaShop Addons is invalid, and cannot fallback on cache.  {"exception":"cURL error 28: Operation timed out after 5000 milliseconds with 1158425694175232 bytes received"} []
